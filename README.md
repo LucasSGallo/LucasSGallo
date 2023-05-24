@@ -1,3 +1,6 @@
+https://user-images.githubusercontent.com/104911206/232939844-0ff200f9-f0d8-4c96-9fe4-49cffe859ab6.gif
+            Go Sharks! ![image](https://github.com/LucasSGallo/LucasSGallo/assets/109878265/e89480e4-5456-4d0d-8995-0b43ed9b2940)
+
 - 🔭 I’m currently working on different personal projects...
 - 🌱 I’m currently learning on National Technological University of Mendoza, Argentina...
 - 📫 How to reach me: email --> gallolucas2003@gmail.com LinkedIn --> https://www.linkedin.com/in/lucas-gallo-517b9a23a
