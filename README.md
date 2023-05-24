@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/104911206/232939844-0ff200f9-f0d8-4c96-9fe4-49cffe859ab6.gif
+![github](https://user-images.githubusercontent.com/104911206/232939844-0ff200f9-f0d8-4c96-9fe4-49cffe859ab6.gif)
             Go Sharks! 💪
 
 - 🔭 I’m currently working on different personal projects...
