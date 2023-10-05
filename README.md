@@ -8,4 +8,3 @@
 
 ![GGbW](https://user-images.githubusercontent.com/109878265/204668030-60aa08f9-a55a-4d7b-a4c2-8ffbce3faaaa.gif)
 
-![Lucas's GitHub Repository Contribution](https://github-contributor-stats.vercel.app/api?username=LucasSG&hide=B&theme=default&combine_all_yearly_contributions=true)
