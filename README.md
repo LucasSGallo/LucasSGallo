@@ -7,3 +7,5 @@
 - ⚡ Fun fact? Before entering this career, I did not know what it was about or how much it was earned. Today I am happy programming and I love CODE
 
 ![GGbW](https://user-images.githubusercontent.com/109878265/204668030-60aa08f9-a55a-4d7b-a4c2-8ffbce3faaaa.gif)
+
+![](https://github-contributor-stats.vercel.app/api?username=lucassgallo&limit=5&theme=dark&combine_all_yearly_contributions=true)
